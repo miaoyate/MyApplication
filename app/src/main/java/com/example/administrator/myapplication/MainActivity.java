@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        //what gost？
+        //what gost？123
         button = (Button) findViewById(R.id.btn);
 
     }
